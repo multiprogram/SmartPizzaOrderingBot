@@ -1,1 +1,1 @@
-# pizzawit - Talks t
+# pizzawit - Talks to wit.ai 
