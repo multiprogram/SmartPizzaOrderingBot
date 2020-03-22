@@ -1,1 +1,1 @@
-# pizzawit - Talks to wit.ai for speech recognition an
+# pizzawit - Talks to wit.ai for speech recognition and analysis in orde
