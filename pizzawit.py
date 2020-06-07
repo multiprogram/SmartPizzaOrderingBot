@@ -3,4 +3,4 @@
 #
 # See here for details: https://hackaday.com/?p=312908
 #
-# Copyright (c) 2018 - 
+# Copyright (c) 2018 - Steven Dufresn
