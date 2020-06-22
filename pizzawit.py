@@ -5,4 +5,4 @@
 #
 # Copyright (c) 2018 - Steven Dufresne
 #
-# Permission 
+# Permission is hereby gran
