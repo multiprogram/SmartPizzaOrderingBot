@@ -5,4 +5,4 @@
 #
 # Copyright (c) 2018 - Steven Dufresne
 #
-# Permission is hereby granted, free of ch
+# Permission is hereby granted, free of charge, to any person obtain
