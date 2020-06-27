@@ -6,4 +6,4 @@
 # Copyright (c) 2018 - Steven Dufresne
 #
 # Permission is hereby granted, free of charge, to any person obtaining 
-# a copy of this software and asso
+# a copy of this software and associated documenta
