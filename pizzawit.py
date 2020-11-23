@@ -13,4 +13,4 @@
 # permit persons to whom the Software is furnished to do so, subject 
 # to the following conditions:
 #
-# The above co
+# The above copyright notice 
