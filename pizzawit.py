@@ -14,4 +14,4 @@
 # to the following conditions:
 #
 # The above copyright notice and this permission notice shall be 
-# included in all copies or substa
+# included in all copies or substantial porti
