@@ -16,4 +16,4 @@
 # The above copyright notice and this permission notice shall be 
 # included in all copies or substantial portions of the Software.
 #
-# THE SOFTWARE IS PROV
+# THE SOFTWARE IS PROVIDED "AS IS",
