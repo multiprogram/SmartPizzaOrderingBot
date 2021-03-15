@@ -17,4 +17,4 @@
 # included in all copies or substantial portions of the Software.
 #
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
-# EXPRESS OR IMPLIED, INCLUDI
+# EXPRESS OR IMPLIED, INCLUDING BUT 
