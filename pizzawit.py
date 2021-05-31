@@ -26,4 +26,6 @@
 #
 
 import os
-from wit impor
+from wit import Wit
+
+# Put your
