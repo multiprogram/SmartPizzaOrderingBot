@@ -28,4 +28,4 @@
 import os
 from wit import Wit
 
-# Put your
+# Put your access
