@@ -28,4 +28,4 @@
 import os
 from wit import Wit
 
-# Put your access token fr
+# Put your access token from wit here. 
