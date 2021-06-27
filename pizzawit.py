@@ -30,4 +30,4 @@ from wit import Wit
 
 # Put your access token from wit here. Get this from your App's Settings on
 # https://wit.ai. The Server Access Token works.
-acc
+access_token = 'X
