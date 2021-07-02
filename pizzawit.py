@@ -34,4 +34,4 @@ access_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 client = Wit(access_token)
 
-def do_wit_na
+def do_wit_natural_lang
