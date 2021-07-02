@@ -32,4 +32,4 @@ from wit import Wit
 # https://wit.ai. The Server Access Token works.
 access_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' 
 
-cl
+client = Wit(acces
