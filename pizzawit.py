@@ -36,4 +36,4 @@ client = Wit(access_token)
 
 def do_wit_natural_language_processing(audio_file):
     # do_wit_natural_language_processing - Have Wit.ai process the given
-    # .wav file to co
+    # .wav file to convert the
