@@ -36,4 +36,5 @@ client = Wit(access_token)
 
 def do_wit_natural_language_processing(audio_file):
     # do_wit_natural_language_processing - Have Wit.ai process the given
-    # .wav file to convert the speech to text as well as analyse it an
+    # .wav file to convert the speech to text as well as analyse it and
+    # map it
