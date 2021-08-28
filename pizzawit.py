@@ -39,4 +39,5 @@ def do_wit_natural_language_processing(audio_file):
     # .wav file to convert the speech to text as well as analyse it and
     # map it to entities which we've trained Wit.ai for and extract any
     # data where appropriate.
-    with open(audio_file, 'rb') 
+    with open(audio_file, 'rb') as f:
+        r
