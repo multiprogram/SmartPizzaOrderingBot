@@ -40,4 +40,4 @@ def do_wit_natural_language_processing(audio_file):
     # map it to entities which we've trained Wit.ai for and extract any
     # data where appropriate.
     with open(audio_file, 'rb') as f:
-        resp = client.speech(f, No
+        resp = client.speech(f, None, {'Content-T
