@@ -41,4 +41,4 @@ def do_wit_natural_language_processing(audio_file):
     # data where appropriate.
     with open(audio_file, 'rb') as f:
         resp = client.speech(f, None, {'Content-Type': 'audio/wav'})
-  
+        return
