@@ -44,4 +44,4 @@ def do_wit_natural_language_processing(audio_file):
         return resp
     return None
 
-# the
+# these are all th
