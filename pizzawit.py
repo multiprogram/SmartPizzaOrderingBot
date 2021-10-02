@@ -42,4 +42,6 @@ def do_wit_natural_language_processing(audio_file):
     with open(audio_file, 'rb') as f:
         resp = client.speech(f, None, {'Content-Type': 'audio/wav'})
         return resp
-    retu
+    return None
+
+# the
