@@ -44,4 +44,4 @@ def do_wit_natural_language_processing(audio_file):
         return resp
     return None
 
-# these are all the things the pizza place
+# these are all the things the pizza place will say in 
