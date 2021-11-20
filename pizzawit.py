@@ -47,4 +47,5 @@ def do_wit_natural_language_processing(audio_file):
 # these are all the things the pizza place will say in the order it will
 # say it. If we have an actual phone then this would be replaced by the
 # input from the phone
-conv_place
+conv_place = 0
+conv
