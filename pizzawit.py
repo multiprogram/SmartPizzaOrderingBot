@@ -49,4 +49,4 @@ def do_wit_natural_language_processing(audio_file):
 # input from the phone
 conv_place = 0
 conv_numb = 7
-conv = ['audi
+conv = ['audio_johnn
