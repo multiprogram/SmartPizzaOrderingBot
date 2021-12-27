@@ -51,4 +51,5 @@ conv_place = 0
 conv_numb = 7
 conv = ['audio_johnnys_greeting.wav',
         'audio_johnnys_asking_for_toppings.wav',
-        'audio_johnnys_asking_is_that_al
+        'audio_johnnys_asking_is_that_all.wav',
+    
