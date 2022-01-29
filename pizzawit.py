@@ -55,4 +55,6 @@ conv = ['audio_johnnys_greeting.wav',
         'audio_johnnys_asking_is_that_all.wav',
         'audio_johnnys_pickup_or_delivery.wav',
         'audio_johnnys_giving_duration.wav',
-        'audio_johnnys_bye.wa
+        'audio_johnnys_bye.wav']
+
+def ge
