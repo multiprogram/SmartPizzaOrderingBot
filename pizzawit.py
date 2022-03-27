@@ -58,4 +58,5 @@ conv = ['audio_johnnys_greeting.wav',
         'audio_johnnys_bye.wav']
 
 def get_phone_response():
-    # get_phone_response - Get the next thing said by the person at the pi
+    # get_phone_response - Get the next thing said by the person at the pizza
+    # stor
