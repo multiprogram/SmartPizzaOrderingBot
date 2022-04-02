@@ -59,4 +59,4 @@ conv = ['audio_johnnys_greeting.wav',
 
 def get_phone_response():
     # get_phone_response - Get the next thing said by the person at the pizza
-    # store on the other end of th
+    # store on the other end of the phone. We 
