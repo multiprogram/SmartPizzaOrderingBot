@@ -62,4 +62,5 @@ def get_phone_response():
     # store on the other end of the phone. We pretend and instead just return 
     # the name of the next wave file in our pretend conversation.
     #
-    global conv_p
+    global conv_place
+    i
