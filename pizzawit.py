@@ -63,4 +63,5 @@ def get_phone_response():
     # the name of the next wave file in our pretend conversation.
     #
     global conv_place
-    if conv_place
+    if conv_place == conv_numb:
+  
