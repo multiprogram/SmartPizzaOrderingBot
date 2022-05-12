@@ -65,4 +65,5 @@ def get_phone_response():
     global conv_place
     if conv_place == conv_numb:
         return None
-    conv_
+    conv_place += 1
+  
