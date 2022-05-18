@@ -66,4 +66,4 @@ def get_phone_response():
     if conv_place == conv_numb:
         return None
     conv_place += 1
-    return conv[
+    return conv[conv_place-
