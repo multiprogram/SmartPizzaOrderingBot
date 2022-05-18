@@ -68,4 +68,4 @@ def get_phone_response():
     conv_place += 1
     return conv[conv_place-1]
 
-def f
+def first_entity_inte
