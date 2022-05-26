@@ -68,4 +68,5 @@ def get_phone_response():
     conv_place += 1
     return conv[conv_place-1]
 
-def first_entity_intent_value(entities, en
+def first_entity_intent_value(entities, entity):
+    # f
