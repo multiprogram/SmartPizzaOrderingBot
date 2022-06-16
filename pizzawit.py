@@ -70,4 +70,4 @@ def get_phone_response():
 
 def first_entity_intent_value(entities, entity):
     # first_entity_intent_value - Given a response from Wit.ai, if it contains
-    # an intent with a value, and the value is the
+    # an intent with a value, and the value is the same at ent
