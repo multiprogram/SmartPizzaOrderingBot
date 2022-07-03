@@ -73,4 +73,4 @@ def first_entity_intent_value(entities, entity):
     # an intent with a value, and the value is the same at entity then return
     # the value as confirmation. Everything else returns None.
     #
-    if '
+    if 'intent' not in e
