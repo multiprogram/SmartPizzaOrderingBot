@@ -74,4 +74,4 @@ def first_entity_intent_value(entities, entity):
     # the value as confirmation. Everything else returns None.
     #
     if 'intent' not in entities:
-     
+        return None
