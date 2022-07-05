@@ -75,4 +75,4 @@ def first_entity_intent_value(entities, entity):
     #
     if 'intent' not in entities:
         return None
-    val = entities['inten
+    val = entities['intent'][0]['value']
