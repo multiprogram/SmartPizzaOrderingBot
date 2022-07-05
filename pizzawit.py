@@ -75,4 +75,4 @@ def first_entity_intent_value(entities, entity):
     #
     if 'intent' not in entities:
         return None
-    va
+    val = en
