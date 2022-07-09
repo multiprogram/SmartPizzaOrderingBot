@@ -77,4 +77,4 @@ def first_entity_intent_value(entities, entity):
         return None
     val = entities['intent'][0]['value']
     if not val:
-        
+        return None
