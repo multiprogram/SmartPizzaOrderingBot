@@ -79,4 +79,5 @@ def first_entity_intent_value(entities, entity):
     if not val:
         return None
     if val != entity:
-        re
+        return None
+  
