@@ -80,4 +80,4 @@ def first_entity_intent_value(entities, entity):
         return None
     if val != entity:
         return None
-    return v
+    return val['value
