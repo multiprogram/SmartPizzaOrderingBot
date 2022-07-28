@@ -80,4 +80,6 @@ def first_entity_intent_value(entities, entity):
         return None
     if val != entity:
         return None
-    return val['value'] if isinstance(val
+    return val['value'] if isinstance(val, dict) else val
+
+cok
