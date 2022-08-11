@@ -85,4 +85,4 @@ def first_entity_intent_value(entities, entity):
 coke_ordered = False
 while True:
 
-    # Get the next thing said by the pizza plac
+    # Get the next thing said by the pizza place, have Wit
