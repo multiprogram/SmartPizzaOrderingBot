@@ -86,4 +86,4 @@ coke_ordered = False
 while True:
 
     # Get the next thing said by the pizza place, have Wit.ai do natural
-    # language processing on it, and also play it 
+    # language processing on it, and also play it to the speake
