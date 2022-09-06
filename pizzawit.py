@@ -90,4 +90,4 @@ while True:
 
     audio_file = get_phone_response()
     if audio_file == None:
-        break; # the con
+        break; # the conversation 
