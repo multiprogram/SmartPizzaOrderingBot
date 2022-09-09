@@ -91,4 +91,4 @@ while True:
     audio_file = get_phone_response()
     if audio_file == None:
         break; # the conversation is finished
-  
+    print(
