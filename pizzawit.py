@@ -92,4 +92,4 @@ while True:
     if audio_file == None:
         break; # the conversation is finished
     print("%s" % audio_file)
-    resp = do_wit_na
+    resp = do_wit_natural_language
