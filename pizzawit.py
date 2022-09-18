@@ -93,3 +93,4 @@ while True:
         break; # the conversation is finished
     print("%s" % audio_file)
     resp = do_wit_natural_language_processing(audio_file)
+    print(r
