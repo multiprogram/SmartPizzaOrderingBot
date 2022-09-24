@@ -94,4 +94,4 @@ while True:
     print("%s" % audio_file)
     resp = do_wit_natural_language_processing(audio_file)
     print(resp)
-    os.system('aplay 
+    os.system('aplay ' + audio_f
