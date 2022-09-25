@@ -96,4 +96,4 @@ while True:
     print(resp)
     os.system('aplay ' + audio_file)
 
-    #
+    # Check if wh
