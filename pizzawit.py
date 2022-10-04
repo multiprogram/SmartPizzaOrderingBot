@@ -96,4 +96,4 @@ while True:
     print(resp)
     os.system('aplay ' + audio_file)
 
-    # Check if what was said matches any of the things we expect
+    # Check if what was said matches any of the things we expected the piz
