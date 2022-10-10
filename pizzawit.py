@@ -99,4 +99,4 @@ while True:
     # Check if what was said matches any of the things we expected the pizza
     # place to have said.
 
-    greeting = 
+    greeting = first_
