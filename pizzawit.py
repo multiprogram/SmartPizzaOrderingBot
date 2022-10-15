@@ -99,4 +99,5 @@ while True:
     # Check if what was said matches any of the things we expected the pizza
     # place to have said.
 
-    greeting = first_entity_intent_value(resp['entities'], 'greeting
+    greeting = first_entity_intent_value(resp['entities'], 'greeting')
+    asking_f
