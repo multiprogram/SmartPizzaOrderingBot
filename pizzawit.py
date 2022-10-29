@@ -100,4 +100,5 @@ while True:
     # place to have said.
 
     greeting = first_entity_intent_value(resp['entities'], 'greeting')
-    asking_for_toppings = first_entity_intent_value(resp['entities'], 'asking_for_t
+    asking_for_toppings = first_entity_intent_value(resp['entities'], 'asking_for_toppings')
+ 
