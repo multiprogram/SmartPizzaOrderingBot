@@ -101,4 +101,4 @@ while True:
 
     greeting = first_entity_intent_value(resp['entities'], 'greeting')
     asking_for_toppings = first_entity_intent_value(resp['entities'], 'asking_for_toppings')
-    asking_is_that_all = first_entity_intent_value(resp['entities'], 'asking_i
+    asking_is_that_all = first_entity_intent_value(resp['entities'], 'asking_is_that_all')
