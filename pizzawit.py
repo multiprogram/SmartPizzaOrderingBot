@@ -103,4 +103,4 @@ while True:
     asking_for_toppings = first_entity_intent_value(resp['entities'], 'asking_for_toppings')
     asking_is_that_all = first_entity_intent_value(resp['entities'], 'asking_is_that_all')
     asking_pickup_or_delivery = first_entity_intent_value(resp['entities'], 'asking_pickup_or_delivery')
-    give_order_ready_time = first_entity_intent_value(resp['entities'], 'give_o
+    give_order_ready_time = first_entity_intent_value(resp['entities'], 'give_order_ready_ti
