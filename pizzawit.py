@@ -106,4 +106,4 @@ while True:
     give_order_ready_time = first_entity_intent_value(resp['entities'], 'give_order_ready_time')
     bye = first_entity_intent_value(resp['entities'], 'bye')
 
-    # Based on
+    # Based on what the
