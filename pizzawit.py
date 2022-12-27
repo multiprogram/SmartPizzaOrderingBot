@@ -107,4 +107,5 @@ while True:
     bye = first_entity_intent_value(resp['entities'], 'bye')
 
     # Based on what the pizza place said, play an appropriate response to
+    # the speaker.
    
