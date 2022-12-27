@@ -108,4 +108,5 @@ while True:
 
     # Based on what the pizza place said, play an appropriate response to
     # the speaker.
-   
+    #
+    # Note
