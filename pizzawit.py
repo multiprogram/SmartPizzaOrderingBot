@@ -109,4 +109,5 @@ while True:
     # Based on what the pizza place said, play an appropriate response to
     # the speaker.
     #
-    # Note that there are two approaches for speaking below, pla
+    # Note that there are two approaches for speaking below, playing 
+    # 
