@@ -110,4 +110,4 @@ while True:
     # the speaker.
     #
     # Note that there are two approaches for speaking below, playing 
-    # prerecorded clips or using Festival
+    # prerecorded clips or using Festival, a free t
