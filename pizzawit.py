@@ -111,4 +111,4 @@ while True:
     #
     # Note that there are two approaches for speaking below, playing 
     # prerecorded clips or using Festival, a free text-to-speech program
-    # (https://elinux.org/R
+    # (https://elinux.org/RPi_Text_to_S
