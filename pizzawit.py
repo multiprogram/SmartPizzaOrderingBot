@@ -113,4 +113,5 @@ while True:
     # prerecorded clips or using Festival, a free text-to-speech program
     # (https://elinux.org/RPi_Text_to_Speech_(Speech_Synthesis)).
 
-    if 
+    if greeting:
+      
