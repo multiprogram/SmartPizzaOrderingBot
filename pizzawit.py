@@ -114,4 +114,4 @@ while True:
     # (https://elinux.org/RPi_Text_to_Speech_(Speech_Synthesis)).
 
     if greeting:
-        os.system('aplay audio_customer_gre
+        os.system('aplay audio_customer_greeting_ord
