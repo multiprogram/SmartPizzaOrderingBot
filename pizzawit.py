@@ -115,4 +115,4 @@ while True:
 
     if greeting:
         os.system('aplay audio_customer_greeting_order_pizza.wav')
-        #os.system("echo %s | festival --tts" % "Hi. Id 
+        #os.system("echo %s | festival --tts" % "Hi. Id like to orde
