@@ -117,4 +117,4 @@ while True:
         os.system('aplay audio_customer_greeting_order_pizza.wav')
         #os.system("echo %s | festival --tts" % "Hi. Id like to order one small pizza.")
     elif asking_for_toppings:
-        
+        os.system('aplay
