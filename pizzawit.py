@@ -119,4 +119,4 @@ while True:
     elif asking_for_toppings:
         os.system('aplay audio_customer_toppings.wav')
         #os.system("echo %s | festival --tts" % "Green peppers, mushrooms, and meatballs.")
-  
+    elif asking_is
