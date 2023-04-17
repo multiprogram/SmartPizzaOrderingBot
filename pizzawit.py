@@ -121,4 +121,4 @@ while True:
         #os.system("echo %s | festival --tts" % "Green peppers, mushrooms, and meatballs.")
     elif asking_is_that_all:
         if not coke_ordered:
-            os.
+            os.system(
