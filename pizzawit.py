@@ -122,4 +122,5 @@ while True:
     elif asking_is_that_all:
         if not coke_ordered:
             os.system('aplay audio_customer_one_coke.wav')
-            #os.system("echo %s | festival --tts" % "One Co
+            #os.system("echo %s | festival --tts" % "One Coke.")
+     
