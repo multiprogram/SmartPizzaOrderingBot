@@ -124,4 +124,5 @@ while True:
             os.system('aplay audio_customer_one_coke.wav')
             #os.system("echo %s | festival --tts" % "One Coke.")
             coke_ordered = True
+        else:
    
