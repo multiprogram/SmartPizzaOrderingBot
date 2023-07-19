@@ -130,4 +130,5 @@ while True:
     elif asking_pickup_or_delivery:
         os.system('aplay audio_customer_for_pickup.wav')
         #os.system("echo %s | festival --tts" % "For pick up.")
-    elif give_order_ready_tim
+    elif give_order_ready_time:
+        pi
