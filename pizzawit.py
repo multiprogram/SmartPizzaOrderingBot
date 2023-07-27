@@ -132,4 +132,4 @@ while True:
         #os.system("echo %s | festival --tts" % "For pick up.")
     elif give_order_ready_time:
         pickup_in = resp['entities']['giving_duration'][0]['value']
-        print('Pick up in %
+        print('Pick up in %d minutes'
