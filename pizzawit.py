@@ -133,4 +133,4 @@ while True:
     elif give_order_ready_time:
         pickup_in = resp['entities']['giving_duration'][0]['value']
         print('Pick up in %d minutes' % pickup_in)
-        os.system('aplay audio_cust
+        os.system('aplay audio_customer_ok
