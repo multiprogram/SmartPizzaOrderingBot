@@ -134,4 +134,4 @@ while True:
         pickup_in = resp['entities']['giving_duration'][0]['value']
         print('Pick up in %d minutes' % pickup_in)
         os.system('aplay audio_customer_okay_thanks.wav')
-  
+        #os.system("
