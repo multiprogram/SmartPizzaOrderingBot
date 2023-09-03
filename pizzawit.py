@@ -135,4 +135,4 @@ while True:
         print('Pick up in %d minutes' % pickup_in)
         os.system('aplay audio_customer_okay_thanks.wav')
         #os.system("echo %s | festival --tts" % "Okay, thanks.")
-    
+    elif bye:
