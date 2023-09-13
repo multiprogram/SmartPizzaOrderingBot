@@ -137,4 +137,5 @@ while True:
         #os.system("echo %s | festival --tts" % "Okay, thanks.")
     elif bye:
         os.system('aplay audio_customer_bye.wav')
-        #os.system("echo %s | festival --tts" % "Bye.
+        #os.system("echo %s | festival --tts" % "Bye.")
+    el
