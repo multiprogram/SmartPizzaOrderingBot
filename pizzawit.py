@@ -139,4 +139,4 @@ while True:
         os.system('aplay audio_customer_bye.wav')
         #os.system("echo %s | festival --tts" % "Bye.")
     else:
-        os.system('aplay audio_cus
+        os.system('aplay audio_customer_didnt_under
