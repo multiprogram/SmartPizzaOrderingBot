@@ -141,4 +141,4 @@ while True:
     else:
         os.system('aplay audio_customer_didnt_understand.wav')
         #os.system("echo %s | festival --tts" % "Im sorry, I didn't understand that. I'll get a human on the line.")
-        pri
+        print('HELP!!!!!!!!')
